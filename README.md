@@ -11,6 +11,18 @@ Werkzeug einsetze:
 [Meine Arbeitsweise – PDF](Arbeitsweise_und_KI_Unterstuetzung_V2_0.pdf)
 
 
+---
+
+## 🎓 Mein Karriereweg
+
+Mein berufliches Ziel ist es, mich in der Software- und Spieleentwicklung weiterzuentwickeln und meine kreativen Ideen zunehmend selbstständig umzusetzen.
+
+Dafür verfolge ich zwei gleichwertige Wege: eine duale Ausbildung in der Anwendungsentwicklung oder den direkten Einstieg in die Games-Branche.
+
+Mehr über meine Karriereziele und meine Bewerbungsplanung für 2026/2027:
+
+[Karriere- und Bewerbungsplan – PDF](Karriere_und_Bewerbungsplan_2026_2027_Praesentationsfassung.pdf)
+
 <!--
 **DuckyTheChick/DuckyTheChick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
