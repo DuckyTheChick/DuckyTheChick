@@ -1,4 +1,15 @@
-## Hi there 👋
+## 🌸 Meine Arbeitsweise
+
+Ich liebe es, Neues zu lernen und meine Fähigkeiten
+in ganz unterschiedlichen Bereichen zu erweitern.
+
+Mehr darüber, wie ich lerne, arbeite und KI als
+Werkzeug einsetze:
+
+[Meine Arbeitsweise – Markdown](Arbeitsweise_und_KI_Unterstuetzung_V2_0.md)
+
+[Meine Arbeitsweise – PDF](Arbeitsweise_und_KI_Unterstuetzung_V2_0.pdf)
+
 
 <!--
 **DuckyTheChick/DuckyTheChick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
